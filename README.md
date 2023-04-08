@@ -4,11 +4,11 @@
 - **
 - 🌱 I’m currently learning Project Thyroid disease detection 
 - 
-- 💞️ **A highly motivated and enthusiastic data science professional seeking a challenging role as a data scientist in a reputed organization
+- 💞️ ****A highly motivated and enthusiastic data science professional seeking a challenging role as a data scientist in a reputed organization
 where I can utilize my skills in data analysis and modeling to drive business growth and success. Working with an organization, where I
 can learn new things and work with my full effort and enthusiasm.
 **
-
+**
 - Technical skill -> **Python | SQL | ML | DL | Github**
 
 - 📫 How to reach me .....
