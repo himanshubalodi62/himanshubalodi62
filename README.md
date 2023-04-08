@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Himanshu Balodi**
 - 
-- 👀 I’m interested in ** Data Science | AI | Machine learning | Deep learning**
-- 
+- 👀 I’m interested in **** Data Science | AI | Machine learning | Deep learning**
+- **
 - 🌱 I’m currently learning Project Thyroid disease detection 
 - 
 - 💞️ **A highly motivated and enthusiastic data science professional seeking a challenging role as a data scientist in a reputed organization
