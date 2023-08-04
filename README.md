@@ -9,7 +9,7 @@ where I can utilize my skills in data analysis and modeling to drive business gr
 can learn new things and work with my full effort and enthusiasm.
 **
 **
-- Technical skill -> **Python | SQL | ML | DL | Github**
+- Technical skill -> **Python | Pandas | Numpy | Matplotlib | Seaborn | MongoDB | Flask | SQL | ML | DL | Github**
 
 - 📫 How to reach me .....
 - linkdin -- https://www.linkedin.com/in/himanshu-balodi-54931124b/
