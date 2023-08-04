@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in **** Data Science | AI | Machine learning | Deep learning**
 - **
-- 🌱 I’m currently learning Project Thyroid disease detection 
+- 🌱 I’m currently learning Project Insurence prediction 
 - 
 - 💞️ ****A highly motivated and enthusiastic data science professional seeking a challenging role as a data scientist in a reputed organization
 where I can utilize my skills in data analysis and modeling to drive business growth and success. Working with an organization, where I
