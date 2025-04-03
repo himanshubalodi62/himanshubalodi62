@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **himanshubalodi62@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JLfXbasudvRk1LTDsyX1ru29_WDM86NS/edit?usp=sharing&ouid=116210895513700352154&rtpof=true&sd=true](https://docs.google.com/document/d/1JLfXbasudvRk1LTDsyX1ru29_WDM86NS/edit?usp=sharing&ouid=116210895513700352154&rtpof=true&sd=true)
+- 📄 Know about my experiences https://drive.google.com/file/d/1GjVAPMUaQTcUkF_K8SWr3brT1Ohdg8Hz/view?usp=sharing
 
 - ⚡ Words that Describe me **Self Believed, Hard working , Collaborative , Analytical , Innovative , Ambitious , Strategic**
 
